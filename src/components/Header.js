@@ -18,7 +18,7 @@ const Header = () => {
               <div className="presentation__text">
                 <p>I am Ismael Dembele</p>
                 <p>a full stact developper</p>
-                <p>base in Pittsburgh, PA</p>
+                <p>based in Pittsburgh, PA</p>
               </div>
             </Grid>
             <Grid item className="presentation__line">
